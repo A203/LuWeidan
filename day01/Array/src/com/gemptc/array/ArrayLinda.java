@@ -8,7 +8,7 @@ public class ArrayLinda {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a[];
-		int []a1;
+		//int []a1;
 		//int a2[5];//申明时不指定数组长度
 		//分配内存空间
 		a=new int[3];
@@ -23,7 +23,7 @@ public class ArrayLinda {
 		
 		//方式二
 		int b[]={1,2,3,4,5,6};
-		int b1[]=new int[]{1,2,3,4,5};
+		//int b1[]=new int[]{1,2,3,4,5};
 		//int B2[]=new int[5]{1,2,3,4,5};//如果设置了初始值就不能再制定长度
 		/*int []b3;
 		 * b3={1,2,3};
